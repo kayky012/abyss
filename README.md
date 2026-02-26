@@ -683,7 +683,7 @@ Get help, suggest features, and connect with other ABYSS users:
 
 If you find ABYSS useful, please consider giving it a star on GitHub!
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/abyss-bot&type=Date)](https://star-history.com/#yourusername/abyss-bot&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=rak-dev1/abyss&type=Date)](https://star-history.com/#yourusername/abyss-bot&Date)
 
 ---
 
