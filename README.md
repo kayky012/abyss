@@ -20,7 +20,7 @@
   <a href="https://discord.com/oauth2/authorize?client_id=1467842302260281427">
     <img src="https://img.shields.io/badge/Invite%20ABYSS-5865F2?logo=discord&logoColor=white" alt="Invite">
   </a>
-  <a href="https://github.com/yourusername/abyss-bot/stargazers">
+  <a href="https://github.com/rak-dev1/abyss/stargazers">
     <img src="https://img.shields.io/github/stars/rak-dev1/abyss?style=social" alt="Stars">
   </a>
 </p>
