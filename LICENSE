@@ -20,11 +20,10 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
----
 
-## License Summary
+License Summary
 
-### Permissions
+Permissions
 
 Commercial Use: You may use this software commercially
 Modification: You may modify the source code
@@ -33,56 +32,50 @@ Private Use: You may use this software privately
 Sublicensing: You may grant sublicenses
 Patent Use: This license provides an express grant of patent rights
 
-### Limitations
+Limitations
 
 Liability: The software is provided "as is", without any warranty
 Warranty: No warranty of any kind, express or implied
 Trademark Use: This license does not grant trademark rights
 
-### Conditions
+Conditions
 
 License and Copyright Notice: Must include original copyright notice in all copies
 State Changes: Must indicate significant changes made to the software
 
----
 
-## Detailed Explanation
+Detailed Explanation
 
-### What You CAN DO
-- Commercial Use: Use the software in commercial applications
-- Modification: Change the code to fit your needs
-- Distribution: Share the software with others
-- Private Use: Use it for your own purposes
-- Sublicensing: Grant these same rights to others
-- Patent Use: Use any patents embodied in the code
+What You CAN DO
+Commercial Use: Use the software in commercial applications
+Modification: Change the code to fit your needs
+Distribution: Share the software with others
+Private Use: Use it for your own purposes
+Sublicensing: Grant these same rights to others
+Patent Use: Use any patents embodied in the code
 
-### What You CANNOT DO
-- Hold Liable: The authors cannot be held legally responsible
-- Claim Warranty: No guarantees about performance or reliability
-- Use Trademarks: Cannot use project names/logos without permission
+What You CANNOT DO
+Hold Liable: The authors cannot be held legally responsible
+Claim Warranty: No guarantees about performance or reliability
+Use Trademarks: Cannot use project names/logos without permission
 
-### What You MUST DO
-- Include Copyright: Keep the original copyright notice
-- Include License: Include this license with distributions
-- State Changes: Document significant modifications
+What You MUST DO
+Include Copyright: Keep the original copyright notice
+Include License: Include this license with distributions
+State Changes: Document significant modifications
 
----
+This License Applies To
 
-## This License Applies To
+All source code files (.js, .json, etc.)
+Documentation files
+Configuration examples
+Asset files (images, fonts) unless otherwise noted
+Any other files in this repository
 
-- All source code files (.js, .json, etc.)
-- Documentation files
-- Configuration examples
-- Asset files (images, fonts) unless otherwise noted
-- Any other files in this repository
 
----
-
-## Contributions
+Contributions
 
 By contributing to this project, you agree that your contributions will be licensed under the same MIT License.
 
----
 
 For questions about this license, please contact the repository owner.
-```
